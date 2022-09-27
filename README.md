@@ -1,4 +1,4 @@
-Solutions to HackerRank's 10 Days of Javascript challenge.
+HackerRank's 10 Days of Javascript challenge.
 [completed]
 
 Day 0:
